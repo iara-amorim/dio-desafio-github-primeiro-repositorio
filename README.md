@@ -8,7 +8,7 @@ Git é uma ferramenta de versionamento criada para facilitar a colaboração ent
 
 Ele é leve, inobtrusivo, e é o padrão de mercado.
 
-###Configuração Inicial do Git
+### Configuração Inicial do Git
 Para usar o git, você precisa informar algumas coisas para ele antes (seu nome e e-mail). Você pode fazer isso via git bash:
 
     git config --global user.name "Seu Nome Aqui"
@@ -18,7 +18,6 @@ Por via de regra, é bom também informar qual é o editor de texto que você pr
 
 ` git config --global core.editor "notepad"`
 
----
 
 ## O que é o GitHub?
 
