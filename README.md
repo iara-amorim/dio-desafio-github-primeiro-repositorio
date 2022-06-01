@@ -16,7 +16,7 @@ Para usar o git, você precisa informar algumas coisas para ele antes (seu nome 
 
 Por via de regra, é bom também informar qual é o editor de texto que você prefere usar. No exemplo abaixo, estou usando o notepad do Windows:
 
-` git config --global core.editor "notepad"`
+` git config --global core.editor notepad`
 
 
 ## O que é o GitHub?
