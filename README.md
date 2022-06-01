@@ -31,6 +31,9 @@ O GitHub é gratuito para uso pessoal, à prova de café derramado no teclado, e
 ## Links Úteis
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
 [Configuração Inicial do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git "Configuração Inicial do Git")
+
 [GitHub Desktop](https://desktop.github.com/ "GitHub Desktop")
+
 [Colinha do git](https://education.github.com/git-cheat-sheet-education.pdf "Colinha do git")
