@@ -36,3 +36,5 @@ O GitHub é gratuito para uso pessoal, à prova de café derramado no teclado, e
 [GitHub Desktop](https://desktop.github.com/ "GitHub Desktop")
 
 [Colinha do git](https://education.github.com/git-cheat-sheet-education.pdf "Colinha do git")
+
+[Lista de dicas e tutoriais dentro do prórpio GitHub, sobre o GitHub](https://github.com/phillipadsmith/awesome-github#readme)
